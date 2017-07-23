@@ -1,0 +1,5 @@
+dlist's find cost = 637588
+
+mtflist's find cost = 166627
+
+translist's find cost = 574549
